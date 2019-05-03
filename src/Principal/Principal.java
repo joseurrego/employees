@@ -10,7 +10,8 @@ import Vista.vistaPrincipal;
 
 /**
  *
- * @author Asus
+ * @author jose urrego
+ * @author juan Balsero
  */
 public class Principal {
     public static void main(String[] args) {
